@@ -1,0 +1,48 @@
+.breadcrumb li{
+    margin-left: -1cm;
+}
+.breadcrumb{
+margin-right: 4.6cm;
+}
+.col-md-20 .form-control{
+    margin-left: -1cm;
+    margin-right: -2cm;
+    padding-right: -4cm;
+   
+}
+.modal-footer .btn a{
+    color:white;
+    text-decoration: none;
+}
+.row .col-md-12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    
+}
+.row .col-md-12 h1{
+    padding-bottom: 10px;
+}
+#well{
+    border-radius: 10px;
+    margin:auto;
+    width:30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.form-horizontal{
+  width: 100%;
+    margin: auto;
+    padding:15px;
+}
+.marg{
+    margin-left:-9cm;
+    margin-bottom: 1rem;
+}
+.form-group .btn{
+    margin-left: -2cm;
+}
